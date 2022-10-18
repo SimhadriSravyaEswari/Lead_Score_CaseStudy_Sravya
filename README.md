@@ -1,7 +1,5 @@
 # Lead_Score_CaseStudy_Sravya
 
-Lead Develoepr : Sravya Simhadri
-
 Repository Content:
 This repository contains 4 files excluding Readme.md
 
